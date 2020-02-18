@@ -63,7 +63,7 @@ public  class AnnotationTest2
 					//System.out.println(" hi"+fields[0].getName());
 					
 					
-					///mfnkjnbf
+					///mfnkjnbffjfk
 					for(int k=0;k<fields.length;k++)
 					{
 						
